@@ -1,0 +1,147 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+ 
+
+
+body{
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   background-color: whitesmoke;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}.logo{
+    height: 60px;
+   
+}h1{
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 800;
+    
+}.thumbnil{
+    width: 100%;
+    height: 87vh;
+    background-image: url(/images/travel1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+   
+}.thumbnil h2 {
+    color: white;
+}.thumbnil h1 {
+    color: white;
+    padding: 15px ;
+  font-size: 50px ;
+      
+    
+}.thumbnil span {
+   
+    color: rgb(218, 143, 6);
+    
+}.nav-item{
+    
+    font-weight: 700;
+    
+}.nav-link:hover{
+    
+   color: rgb(218, 143, 6);
+    
+}.d-flex{
+    margin-left: 15rem;
+}.book{
+    height: 100vh;
+    width: 100%;
+    margin-top: 100px;
+}.book-content{
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+   
+}.book-img{
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+}.btn{
+    color:rgb(218, 143, 6) ;
+    border-radius: 15px;
+    color: white;
+}.package{
+    
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}.packages-card{
+    margin-top: 100px;
+
+}.custom-margin{
+    margin-bottom: 30px;
+}h5{
+    font-weight: 800;
+}.services{
+    width: 100%;
+    height: 100vh;
+   margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+ text-align: center;
+    
+}.services-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  height: 100vh;
+    text-align: center;
+  
+}.fa-solid{
+    color:rgb(218, 143, 6) ;
+    font-size: 70px;
+    
+}.gallery{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+   
+    margin-top: 50px;
+   
+}.gallery-content{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}.about{
+    height: 100vh;
+    width: 100%;
+    
+}.about-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 130px;
+    width: 100%;
+    
+}.footer{
+    height: 50vh;
+    width: 100%;
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
